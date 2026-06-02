@@ -60,9 +60,8 @@ python simulador_interactivo_v0.3.py
 ```
 
 ### Método B: Desde el Archivo Ejecutable (Producción)
-Para entornos donde no se cuente con un intérprete de Python instalado de fábrica, la aplicación incluye una versión compilada e independiente:
-
-Navega a la carpeta dist/ dentro del proyecto.
-
-Ejecuta con un doble clic el archivo independiente: simulador_interactivo_v0.3.exe.
-(Nota: El arranque inicial puede demorar unos segundos mientras el sistema descomprime en memoria el motor matemático de Matplotlib).
+Para entornos donde no se cuente con un intérprete de Python instalado de fábrica, la aplicación cuenta con una versión compilada e independiente:
+1.  Dirígete a la sección de **Releases** (Lanzamientos) en el panel derecho de este repositorio.
+2.  Busca la versión más reciente (**v0.3**) y despliega la pestaña de *Assets*.
+3.  Descarga el archivo independiente **`simulador_interactivo_v0.3.exe`** y ejecútalo con un doble clic en tu sistema Windows.
+*(Nota: El arranque inicial puede demorar unos segundos mientras el sistema descomprime en memoria el motor matemático de Matplotlib).*
