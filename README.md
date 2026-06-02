@@ -59,7 +59,7 @@ Una vez instaladas las dependencias, ejecuta la aplicación desde tu terminal ej
 python simulador_interactivo_v0.3.py
 ```
 
-Método B: Desde el Archivo Ejecutable (Producción)
+### Método B: Desde el Archivo Ejecutable (Producción)
 Para entornos donde no se cuente con un intérprete de Python instalado de fábrica, la aplicación incluye una versión compilada e independiente:
 
 Navega a la carpeta dist/ dentro del proyecto.
