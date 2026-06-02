@@ -33,8 +33,8 @@ Si deseas ejecutar o auditar el **código fuente** directamente, requieres tener
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/Voltio-Simulador.git](https://github.com/TU_USUARIO/Voltio-Simulador.git)
-    cd Voltio-Simulador
+    git clone https://github.com/mitesknight-max/Simulador-de-cargas-SD.git
+    cd Simulador-de-cargas-SD
     ```
 
 2.  **Instalar las dependencias requeridas:**
